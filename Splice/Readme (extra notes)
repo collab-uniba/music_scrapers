@@ -1,0 +1,6 @@
+1. Script 'getReleaseList.py' per ottenere un file con la lista di url delle song degli utenti in 'listUsernameSplice'
+uso: python getReleaseList.py listUsernameSplice SpliceSongsURL
+
+2. Script 'SpliceSongList.py' per ottenere il csv con le informazioni sulle canzoni
+uso: python SpliceSongList.py SpliceSongsURL output.csv
+
